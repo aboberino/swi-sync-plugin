@@ -1,0 +1,15 @@
+{
+  "name": "swi-sync",
+  "version": "1.0.0",
+  "description": "Plugin for SWEX",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
